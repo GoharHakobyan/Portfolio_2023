@@ -1,9 +1,9 @@
 import React from "react";
-
+import './app.scss'
 
 const App=()=>{
     return(
-        <div>hi</div>
+        <p>hi</p>
     )
 }
 export default App
